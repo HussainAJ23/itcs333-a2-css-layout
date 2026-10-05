@@ -41,3 +41,8 @@ form textarea:focus {
 form input{
    padding: 6px;
 }
+@media (max-width: 700px) {
+  .card-grid {
+    grid-template-columns: 1fr;
+  }
+}
