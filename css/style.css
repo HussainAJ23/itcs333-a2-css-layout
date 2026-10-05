@@ -38,3 +38,6 @@ form textarea:focus {
   border-color: rgb(223, 235, 9);
  
 }
+form input{
+   padding: 6px;
+}
