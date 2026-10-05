@@ -27,3 +27,9 @@
   gap: 16px;
 
 }
+button:hover{
+   background-color: aqua;
+}
+.card p{
+   color: rgb(34, 158, 42);
+}
