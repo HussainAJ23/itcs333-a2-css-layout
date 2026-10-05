@@ -11,3 +11,12 @@
    padding: 16px;
    border-bottom: 30px;
 }
+.card{
+   padding: 12px;
+   border: 30px;
+    
+  display: grid;
+  grid-gap: 20px;
+
+
+}
